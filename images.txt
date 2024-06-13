@@ -1,7 +1,7 @@
 nginx:1.26.1
 redis:7.2.5
 zookeeper:3.8.4
-rocketmq:5.2.0
+apache/rocketmq:5.2.0
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
